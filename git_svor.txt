@@ -13,3 +13,8 @@ Git spurningar og svör
 	git status           Sýnir hvað hefur verið breytt á skjölum
 	git diff             Borið saman tvö skjöl eða greinar
 	git checkout         Skipta á milli brancha eða restore branch
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff                    Sýnir mun á því sem er verið að vinna á
+	b) git diff --staged           Sýnir öll staged breytingar
+	c) git diff commit1 commit2    Sýnir mun á milli tveggja commits
