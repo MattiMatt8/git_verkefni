@@ -22,3 +22,5 @@ Git spurningar og svör
 4. 	Hvað er útgáfustýring (e.version control)? Það tekur upp breytingar á skjölum og gefur manni stjórn á mismunandi útgáfum af verkefninu og ef eitthvað er breytt til verra þá er hægt að rúlla því til baka í fyrra version þar sem það var í lagi og heldur utanum hver breytti hverju hvenær.
 
 5.	Hverjir eru helstu kostir við að nota GIT? Maður getur rúllað til baka ef maður hefur gert eitthvað virkilega slæmt og er gott til þess að sjá um marga sem eru að vinna á sama verkefni.  Og líka til þess að sjá um útgáfur á forriti eða svo.
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? Á sirka 30 min fresti sérstaklega þegar maður er kominn með eitthvað sem virkar eins og virkandi version af forriti þá er best að vista það þannig ef eitthvað ruglast getur maður farið til baka.
