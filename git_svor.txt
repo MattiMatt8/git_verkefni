@@ -18,3 +18,5 @@ Git spurningar og svör
 	a) git diff                    Sýnir mun á því sem er verið að vinna á
 	b) git diff --staged           Sýnir öll staged breytingar
 	c) git diff commit1 commit2    Sýnir mun á milli tveggja commits
+
+4. 	Hvað er útgáfustýring (e.version control)? Það tekur upp breytingar á skjölum og gefur manni stjórn á mismunandi útgáfum af verkefninu og ef eitthvað er breytt til verra þá er hægt að rúlla því til baka í fyrra version þar sem það var í lagi og heldur utanum hver breytti hverju hvenær.
