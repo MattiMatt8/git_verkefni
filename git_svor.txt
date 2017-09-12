@@ -35,3 +35,5 @@ Repository þar er allt history geymt eins og öll commits o.s.frv.
 9.	Hver fann upp GIT? Linus Torvalds
 
 10.	Hvar er GIT helst notað? Það er mest notað sem hópvinnu verkefæri til að halda um versions o.s.frv.
+
+Matthías
