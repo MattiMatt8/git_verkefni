@@ -24,3 +24,8 @@ Git spurningar og svör
 5.	Hverjir eru helstu kostir við að nota GIT? Maður getur rúllað til baka ef maður hefur gert eitthvað virkilega slæmt og er gott til þess að sjá um marga sem eru að vinna á sama verkefni.  Og líka til þess að sjá um útgáfur á forriti eða svo.
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? Á sirka 30 min fresti sérstaklega þegar maður er kominn með eitthvað sem virkar eins og virkandi version af forriti þá er best að vista það þannig ef eitthvað ruglast getur maður farið til baka.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+Working directory er þar sem öll skjölin eru/geymd
+Staging area þar sem maður gerir allt tilbúið áður en maður commitar
+Repository þar er allt history geymt eins og öll commits o.s.frv.
