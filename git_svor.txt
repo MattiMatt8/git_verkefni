@@ -31,3 +31,5 @@ Staging area þar sem maður gerir allt tilbúið áður en maður commitar
 Repository þar er allt history geymt eins og öll commits o.s.frv.
 
 8.	Hvenær er sniðugt að nota greinar (branches)? Þegar ætlað er að vinna á eitthverju nýju sem maður vill t.d. prufa áður en maður vill að almenningur sér.
+
+9.	Hver fann upp GIT? Linus Torvalds
